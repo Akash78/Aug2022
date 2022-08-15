@@ -1,6 +1,15 @@
 Hi java
 hello
 jojo
+<<<<<<< HEAD
 a
 b
 c
+=======
+Hi AAk
+f
+g
+a
+b
+c
+>>>>>>> main1
